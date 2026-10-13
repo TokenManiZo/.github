@@ -51,9 +51,9 @@
 
 | 구분 | 주요 성과 |
 |:---|:---|
-| **Vulnerability Research** | 오픈소스 취약점 4건 발굴 |
-| **CVE** | [CVE-2026-107604](https://nvd.nist.gov/vuln/detail/CVE-2026-107604) |
-| **Bug Bounty** | 국내 E-commerce 서비스 블랙박스 보안 점검 · CWE-200 유효 판정 |
+| **Vulnerability Research** | 추후 업데이트 예정 |
+| **CVE** | 추후 업데이트 예정 |
+| **Bug Bounty** | 추후 업데이트 예정 |
 | **Publication** | 한국정보보호학회 CISC-W 2026 논문 채택 (Accepted) |
 
 ---
@@ -63,13 +63,13 @@
 ### Mentor & Project Leader
 
 | Mentor | Project Leader (PL) |
-|:---:|:---:|
+|---|---|
 | [김주원](https://github.com/arrester) | [이상현](https://github.com/isanghyeon) |
 
 ### Mentees
 
 | | |
-|:---:|:---:|
+|---|---|
 | [김경훈](https://github.com/J0hnathanKim) | [김광원](https://github.com/gwangwon0807) |
 | [김태훈](https://github.com/xo0102) | [서승린](https://github.com/garry15907) |
 | [최원우](https://github.com/choewonwoo1817) | [심지운](https://github.com/simjiun) |
