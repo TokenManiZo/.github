@@ -68,10 +68,11 @@
 
 ### Mentees
 
-|  |  |
-| :--- | :--- |
-| [김경훈](https://github.com/J0hnathanKim) | [김광원](https://github.com/gwangwon0807) |
-| [김태훈](https://github.com/xo0102) | [서승린](https://github.com/garry15907) |
-| [최원우](https://github.com/choewonwoo1817) | [심지운](https://github.com/simjiun) |
-| [전오규](https://github.com/Kamba-netizen) | [김태연](https://github.com/t-211) |
-
+<table>
+  <tbody>
+    <tr><td><a href="https://github.com/J0hnathanKim">김경훈</a></td><td><a href="https://github.com/gwangwon0807">김광원</a></td></tr>
+    <tr><td><a href="https://github.com/xo0102">김태훈</a></td><td><a href="https://github.com/garry15907">서승린</a></td></tr>
+    <tr><td><a href="https://github.com/choewonwoo1817">최원우</a></td><td><a href="https://github.com/simjiun">심지운</a></td></tr>
+    <tr><td><a href="https://github.com/Kamba-netizen">전오규</a></td><td><a href="https://github.com/t-211">김태연</a></td></tr>
+  </tbody>
+</table>
