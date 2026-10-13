@@ -58,19 +58,20 @@
 
 ---
 
-## 👥 Team Members
+👥 Team Members
 
 ### Mentor & Project Leader
 
 | Mentor | Project Leader (PL) |
-|---|---|
+| :--- | :--- |
 | [김주원](https://github.com/arrester) | [이상현](https://github.com/isanghyeon) |
 
 ### Mentees
 
-| | |
-|---|---|
+|  |  |
+| :--- | :--- |
 | [김경훈](https://github.com/J0hnathanKim) | [김광원](https://github.com/gwangwon0807) |
 | [김태훈](https://github.com/xo0102) | [서승린](https://github.com/garry15907) |
 | [최원우](https://github.com/choewonwoo1817) | [심지운](https://github.com/simjiun) |
 | [전오규](https://github.com/Kamba-netizen) | [김태연](https://github.com/t-211) |
+
