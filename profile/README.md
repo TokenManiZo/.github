@@ -1,11 +1,7 @@
- <h1 align="center">TokenManiZo</h1>
-
 <p align="center">
-  <strong>WHITEHAT SCHOOL 4TH · WEB & API SECURITY</strong>
-</p>
-
-<p align="center">
-  복잡한 API 흐름을 분석 가능한 관계로 바꾸다.
+  <img src="./banner.png"
+       alt="TokenManiZo — WHITEHAT SCHOOL 4TH"
+       width="100%">
 </p>
 
 ---
