@@ -26,11 +26,11 @@
 수동 점검, OWASP ZAP, LLM 기반 탐색 결과를 통합하고, 신원–API–객체 간 관계를 시각화하여 탐색 누락 구간과 IDOR·BOLA·BFLA 등 인가 취약점 후보의 분석 및 검증을 지원합니다.
 
 <p>
-  <img src="https://img.shields.io/badge/API_Coverage-367D83?style=for-the-badge" alt="API Coverage">
+  <a href="#"><img src="https://img.shields.io/badge/API_Coverage-367D83?style=for-the-badge" alt="API Coverage"></a>
   &ensp;
-  <img src="https://img.shields.io/badge/Authorization_Analysis-52658C?style=for-the-badge" alt="Authorization Analysis">
+  <a href="#"><img src="https://img.shields.io/badge/Authorization_Analysis-52658C?style=for-the-badge" alt="Authorization Analysis"></a>
   &ensp;
-  <img src="https://img.shields.io/badge/Burp_Suite_Extension-BD7546?style=for-the-badge" alt="Burp Suite Extension">
+  <a href="#"><img src="https://img.shields.io/badge/Burp_Suite_Extension-BD7546?style=for-the-badge" alt="Burp Suite Extension"></a>
 </p>
 
 ### 핵심 기능
