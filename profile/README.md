@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png"
+  <img src="./banner.jpg"
        alt="TokenManiZo — WHITEHAT SCHOOL 4TH"
        width="100%">
 </p>
